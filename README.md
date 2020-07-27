@@ -1,6 +1,6 @@
                                            Email Separator Using PHP 
 
-![sep_email](https://user-images.githubusercontent.com/47280551/62416620-687af300-b614-11e9-8385-9b9e4cf2e96c.gif)
+![sep_email](https://user-images.githubusercontent.com/67064886/88514509-9c3aef80-cfc0-11ea-8979-d0126bce49ba.gif)
 
 
  
